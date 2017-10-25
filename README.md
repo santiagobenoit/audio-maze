@@ -3,7 +3,7 @@
 Audio Maze is a game that can be played by the sighted and the blind alike. In this game, the player is tasked with navigating a maze and reaching the finish, using only sound. This game features many pre-made mazes as well as a maze editor.
 
 ## How to play
-As you navigate the maze, you can roll marbles and determine how far away different items or walls are, as well as what the item is, judging by how long the marble has rolled before stopping, how far away it sounds, and what sound it makes when it hits the item. Use this to build a mental map of the layout of the maze relative to your position. Practicing this game could benefit memory and spacial awareness.
+As you navigate the maze, you can roll marbles and determine how far away different objects or walls are, as well as what the object is, judging by how far the marble has rolled before stopping and the sound it makes when it hits the object. Use this to build a mental map of the layout of the maze relative to your position. Practicing this game could benefit memory and spacial awareness.
 
 ## Controls
 - W/up arrow: move forward
