@@ -29,4 +29,5 @@ In the Maze Editor, you may create or edit mazes. Here is the list of items you 
 - Water: you may walk through this, but marbles will sink and not pass through.
 - Start: the player's starting position. The player always starts facing up.
 - Finish: the goal for the player to reach in order to win.
+
 ![Maze Editor](/images/maze_editor_screenshot.png?raw=true)
